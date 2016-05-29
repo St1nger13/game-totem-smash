@@ -1,0 +1,202 @@
+
+packtextures.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0
+  rotate: false
+  xy: 817, 885
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 227, 236
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 97, 129
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 97, 167
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 192, 236
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 516, 601
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 611, 677
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 131, 168
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 2
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 852, 886
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 689, 885
+  size: 126, 37
+  orig: 126, 37
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 410
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 2, 342
+  size: 171, 66
+  orig: 171, 66
+  offset: 0, 0
+  index: -1
+button_clicked
+  rotate: false
+  xy: 516, 856
+  size: 171, 66
+  orig: 171, 66
+  offset: 0, 0
+  index: -1
+button_over
+  rotate: false
+  xy: 2, 274
+  size: 171, 66
+  orig: 171, 66
+  offset: 0, 0
+  index: -1
+charge
+  rotate: false
+  xy: 678, 847
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+charge_bg
+  rotate: false
+  xy: 516, 804
+  size: 160, 50
+  orig: 160, 50
+  offset: 0, 0
+  index: -1
+go
+  rotate: false
+  xy: 2, 42
+  size: 84, 38
+  orig: 84, 38
+  offset: 0, 0
+  index: -1
+leaders
+  rotate: false
+  xy: 175, 370
+  size: 195, 38
+  orig: 195, 38
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 372, 371
+  size: 118, 37
+  orig: 118, 37
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 611, 716
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 2, 178
+  size: 93, 94
+  orig: 93, 94
+  offset: 0, 0
+  index: -1
+t2
+  rotate: false
+  xy: 175, 274
+  size: 93, 94
+  orig: 93, 94
+  offset: 0, 0
+  index: -1
+t3
+  rotate: false
+  xy: 516, 708
+  size: 93, 94
+  orig: 93, 94
+  offset: 0, 0
+  index: -1
+t4
+  rotate: false
+  xy: 2, 82
+  size: 93, 94
+  orig: 93, 94
+  offset: 0, 0
+  index: -1
+w1
+  rotate: false
+  xy: 97, 206
+  size: 93, 66
+  orig: 93, 66
+  offset: 0, 0
+  index: -1
+w2
+  rotate: false
+  xy: 270, 302
+  size: 93, 66
+  orig: 93, 66
+  offset: 0, 0
+  index: -1
+w3
+  rotate: false
+  xy: 516, 640
+  size: 93, 66
+  orig: 93, 66
+  offset: 0, 0
+  index: -1
